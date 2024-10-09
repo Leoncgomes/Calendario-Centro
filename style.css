@@ -1,0 +1,78 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(pai\ benedito\ de\ angola.jpg);
+    background-color: rgb(32, 32, 32);
+    color: white;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.651);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    text-align: center;
+}
+
+p{
+    color: black;
+    font-size: large;
+}
+
+main{
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid black;
+}
+
+table{
+    border-collapse: collapse;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+
+caption{
+    border: 1px solid black;
+    color: black;
+    font-size: large;
+}
+
+tr.semana{
+    background-color: gray;
+}
+
+th{
+    border: 3px solid black;
+    bottom: 10px;
+    text-align: center;
+}
+
+td{
+    color: black;
+    border: 1px solid black;
+    bottom: 10px;
+    text-align: center;
+}
+
+td.dfm{
+    background-color: lightgray;
+    color: gray;
+}
+
+td.dom{
+    background-color: rgb(138, 137, 137);
+}
+
+td.gira{
+    background-color: rgba(255, 0, 0, 0.418);
+}
+
+td.dsanto{
+    background-color: rgba(255, 0, 0, 0.226);
+}
